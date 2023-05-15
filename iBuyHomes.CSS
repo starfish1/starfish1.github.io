@@ -1,0 +1,39 @@
+
+		p, h1, h3 {
+  			font-family: "sans-serif;", Arial, serif;
+		}
+
+		.button {
+ 			background-color: #4CAF50;
+  			border: none;
+  			color: white;
+  			padding: 15px 32px;
+  			text-align: center;
+  			text-decoration: none;
+  			display: inline-block;
+  			font-size: 16px;
+ 			margin: 4px 2px;
+ 			cursor: pointer;
+		}
+
+		body  {
+		  	background-image: url("file:///Users/perjo/Downloads/pexels-nate-hovee-4656946.jpg");
+  			background-color: #cccccc;
+   			height: 1700px; /* You must set a specified height */
+  			background-position: center; /* Center the image */
+  			background-repeat: no-repeat; /* Do not repeat the image */
+  			background-size: cover;
+		}
+
+		.button1 {
+ 			 	background-color: #4CAF50;
+ 			 	border: none;
+  				color: white;
+  				padding: 7px 16px;
+  				text-align: center;
+  				text-decoration: none;
+  				display: inline-block;
+  				font-size: 16px;
+  				margin: 8px 4px;
+  				cursor: pointer;
+  			}
