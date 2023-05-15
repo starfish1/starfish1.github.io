@@ -17,7 +17,7 @@
 		}
 
 		body  {
-		  	background-image: url("starfish1.github.io/pexels-nate-hovee-4656946.jpg");
+		  	background-image: url("file:///Applications/pexels-nate-hovee-4656946.jpg");
   			background-color: #cccccc;
    			height: 1700px; /* You must set a specified height */
   			background-position: center; /* Center the image */
